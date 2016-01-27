@@ -1,0 +1,46 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "golang.org/x/text/encoding",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/encoding/internal",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/encoding/unicode",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/internal/gen",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/internal/utf8internal",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/runes",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/transform",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		},
+		{
+			"path": "golang.org/x/text/unicode/cldr",
+			"revision": "6d3c22c4525a4da167968fa2479be5524d2e8bd0",
+			"revisionTime": "2015-12-20T20:04:22-06:00"
+		}
+	]
+}
